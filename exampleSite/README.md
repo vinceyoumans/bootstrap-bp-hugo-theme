@@ -1,5 +1,7 @@
 # hugoBasicExample
 
+this is vy
+
 This is an example site for [Hugo](https://gohugo.io/).
 
 It is intended to be a demo site for the various [Hugo themes](https://themes.gohugo.io/).
